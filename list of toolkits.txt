@@ -6,6 +6,10 @@
 
 4. https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Subdomains%20Enumeration.md
 
+5. https://pentester.land/blog/subdomains-enumeration-cheatsheet/
+
+6. https://medium.com/@nickhandy/burp-suite-webpage-enumeration-and-vulnerability-testing-cfd0b140570d 
+
 
 OSINT DB:
 
