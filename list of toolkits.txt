@@ -1,0 +1,131 @@
+1. https://github.com/ctfs
+
+2. https://github.com/infobyte/faraday
+
+3. https://github.com/owasp-amass/amass
+
+4. https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Subdomains%20Enumeration.md
+
+
+OSINT DB:
+
+Sock puppet account= Burner account with fake name, location etc.
+
+MySudo all in one privacy app for burner number/email etc.
+
+Temp mails: https://temp-mail.org/
+
+TextFree: Free text app
+
+In VM:
+	1. CherryTree for note taking
+	2. KeePassXC- Cross Platform Password Manager (AES-256 Encryption)
+	3. BeamU FIDO Security Key
+	4. VeraCrypt: Encryption of File Volume (E: etc)
+
+Google Operators: Google Advanced Operators
+	1. " xxx" : Exact Search
+	2. Cache:xxxxx = Cache of a page/search
+	3. Allintex: xxxxxx = all text search
+	4. Xxxx filetype: xxxx = search in a filetype (eg, xls, exe)
+	5. Site: xxxx.com xxx search = isolate to specific search function
+
+Tools: Always Search in secured space aka VM:
+	1. Google Hacking Database (GHDB): Advance google search operators database
+	2. Yandex (Russian Comp): Search for images
+	3. PimEyes: Upload facial image to search
+	4. TinEye: Reverse Image Search
+	5. Google Alerts: For new updates on certain search criteria
+	6. Geoimgr: Search geolocation by image
+	7. Greynoise: Search IP addr malicious/norm/daily malicious
+	8. BeenVerified: Reverse Email Search
+	9. Maltego:
+	10. SpyTox: Reverse Phone
+	11. SpyDailer: reverse phone lookup
+	12. NumLookup: Rvrse Phone Lookup
+	13. Sensity: Deepfake detection
+	14. Deepware.ai: Deepfake detection
+	15. Blackbookonline.info: Searchup for people etc.
+	16. Xlek: Public data search
+	17. Dehashed: Compromised usernames/emails/names/passwords
+	18. Webmii: Human Search
+	19. Jobvertise: resumes search (<30 for free)
+	20. FamilyTree.com: Family history/relatives
+	21. Geni.com: Discover family trees
+	22. Instantcheckmate: searching for people (Report)
+	23. Profil3r tool
+	24. ReconDog: Profile scanner for webpages
+	25. PwnBin: Pastebin crawler
+	26. TraceLabs for OSINT training
+	
+	
+
+Website OSINT:
+	1. Spiderfoot: OSINT automated search 
+	2. Wget:
+	3. HTTrack: Website Copier
+	4. Metagoofil: extract webpages files
+	5. WaybackMachine: cache data of webpages
+
+Darkweb:
+	1. Hiddenwiki
+	2. Onion Search Engine
+	3. Ahmia.fi: Hidden searches
+	4. Useragentswitcher: Firefox add-on for user agent switch
+	5. Start.me/p/6rOgjm/osint
+
+OSIRT: for documenting OSINT research into a case file
+
+Canarytokens: trigger user to retrieve information
+	- Requires user to click to initiate
+
+Socialcatfish.com 
+
+Surfsafe
+User agent switcher
+
+
+Further Tools:
+
+
+Netcraft and BuiltWith
+	Ø www.netcraft.com
+	Ø Can be used to footprint a website
+
+Builtwith:
+	Ø Web-based reconnaissance tool
+		○ https://builtwith.com
+		○ Finds out what tech a website built with
+		○ Outputs include:
+			§ Analytics and Tracking
+			§ Frameworks
+			§ Content Delivery Network
+			§ JavaScript Libraries and Functions
+			§ Email Hosting Providers
+			§ SSL Certificates
+			§ Web Hosting Providers
+			§ Web  Servers
+
+
+Ø Google Hacking Tools:
+			○ Wayback Machine:
+				§ Archived versions of web pages across time
+			○ Advanced Dork:
+				§ Firefox extension used to give quick access to google's advanced operators 
+			○ Wikto:
+				§ Information gather
+			○ Maltego: (Security analytics)
+				§ Building a map based on the information gathered with shortcuts available
+
+
+Basic Concepts and Terminologies; 
+Physical and Operations Security; 
+Pen testing Process and Methodologies
+
+
+https://cve.mitre.org/ (Common Vulnerabilities and Exposures) : if vulnerabilities found, can report via this site for the correct practices
+https://nvd.nist.gov/ (National Vulnerability Database)
+
+
+
+
