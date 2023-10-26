@@ -131,5 +131,9 @@ https://cve.mitre.org/ (Common Vulnerabilities and Exposures) : if vulnerabiliti
 https://nvd.nist.gov/ (National Vulnerability Database)
 
 
+https://www.aftershockpc.com/pc-models/frontier-basic?selections=%7B%22ram%22%3A42684658483351%2C%22graphics_card%22%3A42684467708055%2C%22primary_ssd%22%3A42684692627607%2C%22first_sata_storage%22%3A42684467904663%2C%22operating_system%22%3A42314493821079%7D&step=review
 
+
+
+https://www.aftershockpc.com/pc-models/frontier-basic?selections=%7B%22ram%22%3A42684658483351%2C%22graphics_card%22%3A42684467708055%2C%22primary_ssd%22%3A42684692627607%2C%22first_sata_storage%22%3A42684467904663%2C%22operating_system%22%3A42314493821079%7D&step=review
 
