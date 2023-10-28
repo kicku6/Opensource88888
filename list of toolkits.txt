@@ -61,6 +61,7 @@ Tools: Always Search in secured space aka VM:
 	24. ReconDog: Profile scanner for webpages
 	25. PwnBin: Pastebin crawler
 	26. TraceLabs for OSINT training
+	27. Intelligence-X
 	
 	
 
