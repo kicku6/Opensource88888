@@ -146,3 +146,16 @@ https://www.aftershockpc.com/pc-models/zealm-basic?completed=&selections=%7B%22c
 
 intel build: 
 https://www.aftershockpc.com/pc-models/zealm-basic?completed=&selections=%7B%22cpu%22%3A42800011804823%2C%22cpu_system_cooling%22%3A42018381955223%2C%22motherboard%22%3A42712797872279%2C%22ram%22%3A43215377531031%2C%22graphics_card%22%3A42809707004055%2C%22thermal_compound%22%3A42049079541911%2C%22primary_ssd%22%3A43251218808983%2C%22first_sata_storage%22%3A42048959774871%2C%22chassis_fans%22%3A42282124837015%2C%22case_lighting%22%3A42018392146071%2C%22custom_cable_sleeves%22%3A42238666997911%2C%22power_supply_unit%22%3A43081406316695%2C%22primary_monitor%22%3A43206087540887%2C%22secondary_monitor%22%3A43184542122135%2C%22precision_mouse%22%3A42422897148055%7D&step=build
+
+
+
+List of additional tools:
+nmapAutomator
+Gobuster
+Ssh2john.py
+Johntheripper
+Objdump
+Gdb
+http://www.jsnice.org/
+https://obfuscator.io/
+https://crackstation.net/
